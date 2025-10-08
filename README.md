@@ -1,4 +1,4 @@
-# 2025
+# plant-website
 These include 3 web pages (Home, Plants Gallery, About/Contact).
 Each page will use the 10 required features:
 

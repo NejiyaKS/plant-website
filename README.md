@@ -12,3 +12,10 @@ Google Fonts (e.g., "Poppins", "Roboto")
 Modals (popup info on a plant)
 Pseudo-selectors (:hover, :nth-child)
 Tailwind CSS + Custom CSS
+
+Technologies Used
+HTML5  
+Tailwind CSS  
+JavaScript  
+Font Awesome  
+Google Fonts
